@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:bloc_quiz/src/blocs/question_provider.dart';
-import 'package:bloc_quiz/src/models/questionModel.dart';
+
 
 class Home extends StatelessWidget {
   @override
